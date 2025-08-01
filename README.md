@@ -25,8 +25,14 @@ This project is a MATLAB-based control system for a LEGO Mindstorms EV3 robot ca
   * `B` to stop motors
   * `E` to exit the program
 
-## How It Works
+## Images
+[](https://drive.google.com/file/d/17aIQaeeY5wRg4WDD5osS-VcksERSxM-3/view?usp=sharing)
+[](https://drive.google.com/file/d/1IjD7NhNqBPvqJRHHIxhCa6pIV0LBxcDX/view?usp=sharing)
+[](https://drive.google.com/file/d/1jCAN385ePDynXGF1xU1sG3XnsKRQ6Im6/view?usp=sharing)
+[](https://drive.google.com/file/d/1FLDDdmzKlj09JllWkYtCSjGyl4gYYXw9/view?usp=sharing)
 
+## How It Works
+[View Logic Diagram](https://drive.google.com/file/d/1aJIjJ4S8c67Si6Qgk9wFVbtUUATJ3kZD/view?usp=sharing)
 ### Initialization
 
 * Initializes keyboard input and sets color sensor mode.
